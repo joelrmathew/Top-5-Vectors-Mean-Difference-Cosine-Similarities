@@ -1,0 +1,66 @@
+{
+  "correct": [
+    {
+      "goal": "How to cook meat on a fire pit without a grill?",
+      "sol1": "Gather a large and flat rock, clean it and lay it on the coals, once it heats up place the meat directly on the rock",
+      "sol2": "Gather a small and sharp rock, clean it and lay it on the coals, before it heats up place the meat directly on the rock",
+      "correct_answer": "A"
+    },
+    {
+      "goal": "To inspect your mattress for damage",
+      "sol1": "Look for lump, rips, seams, or any other signs of physical wear and tear that need to be addressed.",
+      "sol2": "Look for lumps, rips, tears,  or any other signs of physical wear and tear that need to be addressed.",
+      "correct_answer": "B"
+    },
+    {
+      "goal": "To prevent egg shells in your cookie dough,",
+      "sol1": "crack the eggs open over another smaller container first and check for egg shells before adding them to the rest of the dough",
+      "sol2": "crack the eggs open over the container with the dough and check for egg shells before adding them to the rest of the dough",
+      "correct_answer": "A"
+    },
+    {
+      "goal": "Knowing how much water to add to a homemade self watering system.",
+      "sol1": "About every week add roughly a gallon of water to a corner of the planter, as to not drown the plants.",
+      "sol2": "About every week add roughly a ounce of water to a corner of the planter, as to not drown the plants.",
+      "correct_answer": "A"
+    },
+    {
+      "goal": "To clean off the blinds in your home.",
+      "sol1": "Take a duster or a rag even and wipe the dust off the blinds.",
+      "sol2": "Take a duster or a rag even and wipe the dust into the blinds.",
+      "correct_answer": "A"
+    }
+  ],
+  "incorrect": [
+    {
+      "goal": "how do you stream a movie?",
+      "sol1": "watch it on your tv.",
+      "sol2": "watch it over the internet.",
+      "correct_answer": "B"
+    },
+    {
+      "goal": "how to make bulgur with figs",
+      "sol1": "Make Bulgur with Raisins, adding 1/2 chopped fennel bulb with the onion; replace the pine nuts with cashews and the raisins with chopped dried figs.",
+      "sol2": "Make Bulgur with Raisins, adding 1/2 chopped fennel bulb with the onion; replace the pine nuts and cast iron pans with cashews and the raisins with chopped dried figs.",
+      "correct_answer": "A"
+    },
+    {
+      "goal": "To make your way to the front of a concert audience,",
+      "sol1": "push and shove as firmly as you can through the crowd.",
+      "sol2": "say excuse me and gently make your way through.",
+      "correct_answer": "B"
+    },
+    {
+      "goal": "To swipe a card.",
+      "sol1": "Make sure the magnetic strip is facing the reader, then slide the card up or down the reader slowly.",
+      "sol2": "Make sure the magnetic strip is facing the reader, then slide the card up or down the reader quickly.",
+      "correct_answer": "B"
+    },
+    {
+      "goal": "How to easily fish from a pier?",
+      "sol1": "Use a hook with fishing line and bait at the end and let it hang from the pier until you get a pull",
+      "sol2": "Use some fishing line with a hook and bait at the end and let it hang from the pier until you get a pull",
+      "correct_answer": "B"
+    }
+  ]
+}

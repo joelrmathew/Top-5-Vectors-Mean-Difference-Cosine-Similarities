@@ -1,0 +1,90 @@
+{
+  "5": {
+    "14908": {
+      "cosine_similarity": 0.2721,
+      "explanation": "biochemical sequences or molecular patterns commonly used in genetic analysis"
+    },
+    "11854": {
+      "cosine_similarity": 0.2502,
+      "explanation": " specific identifiers related to educational categories and unique items in a structured context"
+    },
+    "13789": {
+      "cosine_similarity": 0.1753,
+      "explanation": "terms and phrases related to software licensing and legal disclaimers"
+    },
+    "417": {
+      "cosine_similarity": 0.1434,
+      "explanation": " technical terms and components related to molecular biology and bioinformatics"
+    },
+    "6383": {
+      "cosine_similarity": 0.1321,
+      "explanation": " markers indicating the start of new content or sections in documents"
+    }
+  },
+  "10": {
+    "3031": {
+      "cosine_similarity": 0.2316,
+      "explanation": "structured data such as HTML or XML elements and attributes"
+    },
+    "11295": {
+      "cosine_similarity": 0.147,
+      "explanation": "information related to security features and access control"
+    },
+    "13346": {
+      "cosine_similarity": 0.1361,
+      "explanation": "words related to replacement parts and maintenance components"
+    },
+    "15191": {
+      "cosine_similarity": 0.1235,
+      "explanation": "technical terms related to vehicle maintenance and diagnostics"
+    },
+    "15675": {
+      "cosine_similarity": 0.1218,
+      "explanation": " references to specific software packages and their functionalities"
+    }
+  },
+  "15": {
+    "7818": {
+      "cosine_similarity": 0.2518,
+      "explanation": " the presence of specific markers or cues related to structured data or documentation"
+    },
+    "10716": {
+      "cosine_similarity": 0.2255,
+      "explanation": "specific structural elements and formatting in textual data"
+    },
+    "3556": {
+      "cosine_similarity": 0.1484,
+      "explanation": " specific symbols or punctuations that suggest a relational or directive context"
+    },
+    "8134": {
+      "cosine_similarity": 0.1443,
+      "explanation": " repetitions of apostrophes in the text"
+    },
+    "903": {
+      "cosine_similarity": 0.1362,
+      "explanation": "references to notable people and entities"
+    }
+  },
+  "20": {
+    "5121": {
+      "cosine_similarity": 0.2542,
+      "explanation": " technical terms related to vehicle towing and coupling mechanisms"
+    },
+    "6631": {
+      "cosine_similarity": 0.2369,
+      "explanation": "proper nouns.\n"
+    },
+    "14944": {
+      "cosine_similarity": 0.2126,
+      "explanation": "terms related to keys and locking mechanisms"
+    },
+    "7854": {
+      "cosine_similarity": 0.1556,
+      "explanation": "the presence of specific numerical or coded formats in the text"
+    },
+    "3749": {
+      "cosine_similarity": 0.1375,
+      "explanation": " technical terms related to printing processes and machinery"
+    }
+  }
+}
